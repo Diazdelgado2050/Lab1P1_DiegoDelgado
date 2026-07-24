@@ -35,6 +35,8 @@ public class Lab1P1_DiegoDelgado {
         int mult = numeroentero1 * numeroentero2;
         int div = numeroentero1 / numeroentero2;
         
+        
+        // Hopla
         System.out.println("La suma de " + numeroentero1 + "+" + numeroentero2 + " es : " + suma );
         System.out.println("La resta de " + numeroentero1 + "-" + numeroentero2 + " es : " + resta );
         System.out.println("La multiplicacion de  " + numeroentero1 + "*" + numeroentero2 + " es : " + mult );
